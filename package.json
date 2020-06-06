@@ -13,10 +13,10 @@
     "uws": "^10.148.0",
     "zlib-sync": "^0.1.4"
   },
-  "name": "rover",
+  "name": "rover-heroku",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "https://github.com/evaera/RoVer",
+  "repository": "https://github.com/thepwrtank18/RoVer",
   "author": "evaera",
   "license": "Apache-2.0",
   "scripts": {
